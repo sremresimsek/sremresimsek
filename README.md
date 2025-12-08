@@ -1,16 +1,59 @@
-## Hi there 👋
+# 👋 Hey — I'm Emre
 
-<!--
-**sremresimsek/sremresimsek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> _Data cleaning & preprocessing enthusiast. Building clean, structured datasets using Python (pandas, NumPy). Currently learning Machine Learning & NLP._
 
-Here are some ideas to get you started:
+I'm a 3rd-year Software Engineering student focused on improving my data skills.  
+I work mainly on **data cleaning**, **EDA**, and **visualization**, and I'm currently learning ML, NLP, and LLM fundamentals.  
+My goal is to become strong enough to confidently handle real projects and freelance work.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ What I Do
+- Data cleaning (missing values, duplicates, formatting, string processing)
+- Data preprocessing (type conversions, feature extraction, regex cleaning)
+- Exploratory Data Analysis (EDA)
+- Data visualization (Matplotlib, Seaborn)
+- Writing clean, readable Jupyter notebooks
+
+**Tech Stack:** Python · pandas · NumPy · Matplotlib · Seaborn · Jupyter Notebook · Git
+
+---
+
+## 📂 Featured Projects
+- **Cafe Sales – Data Cleaning**  
+  Cleaning workflow with dirty → cleaned CSV output + full notebook.
+- **Titanic – Data Cleaning & Preprocessing**  
+  Missing values, feature extraction, EDA.
+- **Wine Quality – EDA & Visualization**  
+  Data exploration, distributions, correlations, visuals.
+
+> Repositories:  
+> - `https://github.com/sremresimsek/data_cleaning_bootcamp` — Full collection of notebooks & datasets.
+
+---
+
+## 📖 Learning Path
+I'm currently advancing step-by-step:
+1. Solid Python foundations  
+2. pandas & NumPy deep practice  
+3. Data cleaning + EDA  
+4. Intro to Machine Learning  
+5. NLP & LLM fundamentals
+
+---
+
+## 📫 Contact
+- Email: `emresimsek.sr@gmail.com`  
+- LinkedIn: `https://www.linkedin.com/in/yunus-emre-%C5%9Fim%C5%9Fek-13a57a281/`
+
+---
+
+## 🔖 Notes
+- All notebooks are `.ipynb` format.  
+- Datasets include both `*_dirty.csv` and `*_cleaned.csv`. 
+
+---
+
+**Mini Goal:**  
+When delivering work (freelance or practice), I include:  
+`cleaned.csv + notebook.ipynb + dirty.csv`
