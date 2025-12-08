@@ -29,6 +29,8 @@ My goal is to become strong enough to confidently handle real projects and freel
 
 > Repositories:  
 > - `https://github.com/sremresimsek/data_cleaning_bootcamp` — Full collection of notebooks & datasets.
+> - `https://github.com/sremresimsek/exploratory-data-analysis` — Matplotlib & Seaborn visualizations, distribution analysis, correlations, and EDA reports.
+> - `https://github.com/sremresimsek/feature-engineering-and-cleaning` — Early-stage cleaning work and prepared datasets for future feature engineering experiments.
 
 ---
 
