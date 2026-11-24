@@ -1,61 +1,41 @@
-# 👋 Hey — I'm Emre
+# Yunus Emre Şimşek
 
-> _Data cleaning & preprocessing enthusiast. Building clean, structured datasets using Python (pandas, NumPy). Currently learning Machine Learning & NLP._
+**Software Engineering Student | Python · Data Analysis · Machine Learning**
 
-I'm a 3rd-year Software Engineering student focused on improving my data skills.  
-I work mainly on **data cleaning**, **EDA**, and **visualization**, and I'm currently learning ML, NLP, and LLM fundamentals.  
-My goal is to become strong enough to confidently handle real projects and freelance work.
+I'm a fourth-year Software Engineering student at **Fırat University, Türkiye**, expecting to graduate in **June 2027**.
 
----
+My hands-on work focuses on **data cleaning, preprocessing, and exploratory data analysis** with Python, pandas, and NumPy. I have also practiced machine learning algorithms, model evaluation, and basic model deployment through guided coursework. I'm currently working toward building end-to-end ML systems more independently.
 
-## 🛠️ What I Do
-- Data cleaning (missing values, duplicates, formatting, string processing)
-- Data preprocessing (type conversions, feature extraction, regex cleaning)
-- Exploratory Data Analysis (EDA)
-- Data visualization (Matplotlib, Seaborn)
-- Writing clean, readable Jupyter notebooks
+## Selected projects
 
-**Tech Stack:** Python · pandas · NumPy · Matplotlib · Seaborn · Jupyter Notebook · Git
+| Repository | What you'll find |
+| --- | --- |
+| [Feature Engineering & Cleaning](https://github.com/sremresimsek/feature-engineering-and-cleaning) | Data-cleaning notebooks using Cafe Sales and Titanic datasets, including missing-value handling and data-type corrections. |
+| [Data Preprocessing](https://github.com/sremresimsek/data_preprocessing) | Practice with missing values, outliers, categorical encoding, feature scaling, and Google Play Store data. |
+| [Exploratory Data Analysis](https://github.com/sremresimsek/exploratory-data-analysis) | MPG and Wine Quality analyses using descriptive statistics, visualizations, and correlation analysis. |
 
----
+These repositories document my hands-on learning. My ML modeling and deployment experience is primarily from **guided exercises**, rather than independent production systems.
 
-## 📂 Featured Projects
-- **Cafe Sales – Data Cleaning**  
-  Cleaning workflow with dirty → cleaned CSV output + full notebook.
-- **Titanic – Data Cleaning & Preprocessing**  
-  Missing values, feature extraction, EDA.
-- **Wine Quality – EDA & Visualization**  
-  Data exploration, distributions, correlations, visuals.
+## Technical skills
 
-> Repositories:  
-> - `https://github.com/sremresimsek/data_cleaning_bootcamp` — Full collection of notebooks & datasets.
-> - `https://github.com/sremresimsek/exploratory-data-analysis` — Matplotlib & Seaborn visualizations, distribution analysis, correlations, and EDA reports.
-> - `https://github.com/sremresimsek/feature-engineering-and-cleaning` — Early-stage cleaning work and prepared datasets for future feature engineering experiments.
+- **Python & data:** Python, pandas, NumPy, Jupyter Notebook
+- **Analysis & visualization:** EDA, Matplotlib, Seaborn
+- **ML coursework:** scikit-learn, classification, regression, model evaluation, hyperparameter search
+- **Tools and fundamentals:** Git, GitHub, SQL fundamentals
 
----
+## Currently working on
 
-## 📖 Learning Path
-I'm currently advancing step-by-step:
-1. Solid Python foundations  
-2. pandas & NumPy deep practice  
-3. Data cleaning + EDA  
-4. Intro to Machine Learning  
-5. NLP & LLM fundamentals
+- Designing leakage-aware train/validation/test workflows
+- Building preprocessing and modeling pipelines with scikit-learn
+- Improving testing, documentation, and API integration skills
 
----
+## Internship interests
 
-## 📫 Contact
-- Email: `emresimsek.sr@gmail.com`  
-- LinkedIn: `https://www.linkedin.com/in/yunus-emre-%C5%9Fim%C5%9Fek-13a57a281/`
+I'm looking for a **long-term internship (8 February – 30 May 2027)** in **applied AI, data science, data engineering, or Python-based software development**.
 
----
+I especially value teams working on real products and real-world data, where I can contribute, receive code reviews, and learn from experienced engineers.
 
-## 🔖 Notes
-- All notebooks are `.ipynb` format.  
-- Datasets include both `*_dirty.csv` and `*_cleaned.csv`. 
+## Contact
 
----
-
-**Mini Goal:**  
-When delivering work (freelance or practice), I include:  
-`cleaned.csv + notebook.ipynb + dirty.csv`
+- [LinkedIn](https://www.linkedin.com/in/sremresimsek/)
+- **Email:** [emresimsek.sr@gmail.com](mailto:emresimsek.sr@gmail.com)
