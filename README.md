@@ -47,6 +47,7 @@ I enjoy exploring messy datasets, understanding how data behaves, and turning an
 | 🧹 [Feature Engineering & Cleaning](https://github.com/sremresimsek/feature-engineering-and-cleaning) | Cleaning messy Cafe Sales and Titanic datasets; missing values and data-type fixes. |
 | 🧩 [Data Preprocessing](https://github.com/sremresimsek/data_preprocessing) | Outliers, imputation, scaling, categorical encoding, and Google Play Store data exploration. |
 | 📊 [Exploratory Data Analysis](https://github.com/sremresimsek/exploratory-data-analysis) | MPG and Wine Quality datasets; distributions, correlations, and visual analysis. |
+| 🤖 [Machine Learning Studies](https://github.com/sremresimsek/machine-learning-studies) | Guided regression, classification, ensembles, model evaluation, and a locally tested FastAPI exercise. |
 
 These are learning-oriented projects with hands-on notebooks, not production systems.
 
