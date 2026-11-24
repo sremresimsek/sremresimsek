@@ -1,41 +1,63 @@
-# Yunus Emre Şimşek
+<div align="center">
 
-**Software Engineering Student | Python · Data Analysis · Machine Learning**
+# Hi, I'm Yunus Emre 👋
 
-I'm a fourth-year Software Engineering student at **Fırat University, Türkiye**, expecting to graduate in **June 2027**.
+**Software Engineering Student · Python · Data Science · Machine Learning**
 
-My hands-on work focuses on **data cleaning, preprocessing, and exploratory data analysis** with Python, pandas, and NumPy. I have also practiced machine learning algorithms, model evaluation, and basic model deployment through guided coursework. I'm currently working toward building end-to-end ML systems more independently.
+Fourth-year Software Engineering student at **Fırat University, Türkiye**.
 
-## Selected projects
+I enjoy exploring messy datasets, understanding how data behaves, and turning analysis into reproducible Python workflows. My hands-on projects focus on **data cleaning, preprocessing, and exploratory data analysis**. I'm expanding these foundations through machine learning coursework and practical software development.
 
-| Repository | What you'll find |
+<a href="https://www.linkedin.com/in/sremresimsek/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="mailto:emresimsek.sr@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+
+</div>
+
+---
+
+## 🛠️ Tech Stack
+
+**Hands-on data analysis & development**
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" title="Python" alt="Python" width="44" height="44"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" title="pandas" alt="pandas" width="44" height="44"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" title="NumPy" alt="NumPy" width="44" height="44"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" title="Matplotlib" alt="Matplotlib" width="44" height="44"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" title="Jupyter" alt="Jupyter" width="44" height="44"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" title="Git" alt="Git" width="44" height="44"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="44" height="44"/>
+</p>
+
+**Also used in guided ML / deployment exercises**
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" title="scikit-learn" alt="scikit-learn" width="44" height="44"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" title="FastAPI" alt="FastAPI" width="44" height="44"/>
+</p>
+
+**Additional tools explored:** Seaborn · SQL fundamentals · XGBoost · LightGBM
+
+---
+
+## 📌 Selected Work
+
+| Project | Focus |
 | --- | --- |
-| [Feature Engineering & Cleaning](https://github.com/sremresimsek/feature-engineering-and-cleaning) | Data-cleaning notebooks using Cafe Sales and Titanic datasets, including missing-value handling and data-type corrections. |
-| [Data Preprocessing](https://github.com/sremresimsek/data_preprocessing) | Practice with missing values, outliers, categorical encoding, feature scaling, and Google Play Store data. |
-| [Exploratory Data Analysis](https://github.com/sremresimsek/exploratory-data-analysis) | MPG and Wine Quality analyses using descriptive statistics, visualizations, and correlation analysis. |
+| 🧹 [Feature Engineering & Cleaning](https://github.com/sremresimsek/feature-engineering-and-cleaning) | Cleaning messy Cafe Sales and Titanic datasets; missing values and data-type fixes. |
+| 🧩 [Data Preprocessing](https://github.com/sremresimsek/data_preprocessing) | Outliers, imputation, scaling, categorical encoding, and Google Play Store data exploration. |
+| 📊 [Exploratory Data Analysis](https://github.com/sremresimsek/exploratory-data-analysis) | MPG and Wine Quality datasets; distributions, correlations, and visual analysis. |
 
-These repositories document my hands-on learning. My ML modeling and deployment experience is primarily from **guided exercises**, rather than independent production systems.
+These are learning-oriented projects with hands-on notebooks, not production systems.
 
-## Technical skills
+## 🔍 What I'm Exploring
 
-- **Python & data:** Python, pandas, NumPy, Jupyter Notebook
-- **Analysis & visualization:** EDA, Matplotlib, Seaborn
-- **ML coursework:** scikit-learn, classification, regression, model evaluation, hyperparameter search
-- **Tools and fundamentals:** Git, GitHub, SQL fundamentals
+- Building reproducible preprocessing and machine learning pipelines
+- Evaluating models beyond accuracy, including data leakage and error analysis
+- Connecting Python models to simple APIs and applications
 
-## Currently working on
+---
 
-- Designing leakage-aware train/validation/test workflows
-- Building preprocessing and modeling pipelines with scikit-learn
-- Improving testing, documentation, and API integration skills
-
-## Internship interests
-
-I'm looking for a **long-term internship (8 February – 30 May 2027)** in **applied AI, data science, data engineering, or Python-based software development**.
-
-I especially value teams working on real products and real-world data, where I can contribute, receive code reviews, and learn from experienced engineers.
-
-## Contact
-
-- [LinkedIn](https://www.linkedin.com/in/sremresimsek/)
-- **Email:** [emresimsek.sr@gmail.com](mailto:emresimsek.sr@gmail.com)
+<div align="center">
+  <sub>Learning by building, testing, and improving.</sub>
+</div>
